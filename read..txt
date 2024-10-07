@@ -1,0 +1,25 @@
+Pembahasan mengenai color, Unordered list dan Ordered list
+
+Apa itu color??
++ Color merujuk pada penggunaan istilah warna seperti red.yellow,blue,green
++ Color juga bisa menggunakan kode heksadesimal misalnya #FF0000 untuk warna merah.
++ Penggunaan format HEX, RBG, HSL dan lain-lain
+
+
++ Salah satu website yang bisa kita gunakan untuk memilih warna -> https://colorpicker.me/
+
+
+==========================================
+LIST
+
+1. Unordered list
+    + Daftar tak berurutan untuk menampilkan sekumpulan item dalam sebuah daftar tanpa adanya urutan khusus.
+    + <ul>: Menandai awal dari sebuah daftar tak berurutan.
+    + <li>: Menandai setiap item (list item) di dalam daftar.
+
+2.Ordered list
+    + Daftar berurutan yang menampilkan sekumpulan item dalam sebuah daftar dengan urutan yang jelas.
+    + Setiap item dalam daftar ini diberi nomor atau huruf untuk menunjukkan urutannya.
+    + <ol>: Menandai awal dari sebuah daftar berurutan.
+    + <li>: Menandai setiap item (list item) di dalam daftar.
+
